@@ -1,5 +1,5 @@
 # Commit Prompt
-## As I have recently started using git for my project, And I often forget to commit my changes so though that a few lines of code could help me with that. 
+## As I have recently started using git for my project, I often forget to commit my changes so though that a few lines of code could help me with that. 
 
 ### What does it do?
 Every 10 min it will prompt a window saying **PLEASE COMMIT YOUR CODE**.
